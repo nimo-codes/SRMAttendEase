@@ -13,8 +13,8 @@
 
 # misc
 
-.firebase
-.github
+/.firebase
+/.github
 .DS_Store
 .env.local
 .env.development.local
